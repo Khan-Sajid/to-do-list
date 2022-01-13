@@ -1,0 +1,18 @@
+.task{
+    display: flex;
+}
+.clr-btn{
+    padding: 5px;
+    width: 150px;
+    color: rgb(18, 158, 18);
+    font-size: 1.2em;
+    font-weight: bold;
+    border: rgb(18, 158, 18) 2px solid;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

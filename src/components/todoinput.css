@@ -1,0 +1,16 @@
+.input{
+    width: 600px;
+    padding: 5px;
+    font-size: 1.2em;
+    border: rgb(18, 158, 18) 2px solid;
+    border-radius: 5px;
+}
+.add-btn{
+    padding: 5px;
+    width: 150px;
+    color: rgb(18, 158, 18);
+    font-weight: bold;
+    font-size: 1.2em;
+    border: rgb(18, 158, 18) 2px solid;
+    border-radius: 5px;
+}
